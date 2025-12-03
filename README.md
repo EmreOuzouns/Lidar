@@ -17,4 +17,5 @@ gcc main.c -o lidar -lm
 
 ## Run
 ./lidar
-![Uploading image.png…]()
+
+<img width="569" height="564" alt="Ekran görüntüsü 2025-12-03 161017" src="https://github.com/user-attachments/assets/e368b8ed-f791-406c-ad01-f58979e913cd" />
