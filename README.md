@@ -18,4 +18,5 @@ gcc main.c -o lidar -lm
 ## Run
 ./lidar
 
-![Uploading Lidar.png…]()
+
+<img width="569" height="546" alt="Lidar" src="https://github.com/user-attachments/assets/bbd2cab0-30e1-4779-8d53-09f17623ab1d" />
