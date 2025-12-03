@@ -17,3 +17,4 @@ gcc main.c -o lidar -lm
 
 ## Run
 ./lidar
+![Uploading image.png…]()
